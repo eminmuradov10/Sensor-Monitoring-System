@@ -12,3 +12,7 @@ Multithreaded CPU Usage:
 
 Memory Layout - Threads and Log Process:
 ![Memory Layout of Threads](https://github.com/eminmuradov10/Sensor-Monitoring-System/blob/main/Overview_and_Paper_Assignments/Memory_Layout_Sys_Software.png)
+
+Code Review Checklist:
+![Code Review Checklist](https://github.com/eminmuradov10/Sensor-Monitoring-System/blob/main/Overview_and_Paper_Assignments/Code_Review_Checklist_Sys_Software_1.png)
+![](https://github.com/eminmuradov10/Sensor-Monitoring-System/blob/main/Overview_and_Paper_Assignments/Code_Review_Checklist_Sys_Software_2.png)
