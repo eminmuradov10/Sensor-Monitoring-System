@@ -1,4 +1,5 @@
 # Sensor-Monitoring-System
+The repository contains a POSIX multi-threaded C solution for the Sensor Monitoring assignment of the System Software course at KU Leuven - Campus GroupT
 
 ## Images
 Top-Level System Overview (Vandeurzen et al., 2020):
